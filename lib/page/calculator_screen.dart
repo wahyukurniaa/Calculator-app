@@ -36,7 +36,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
             ),
             ..._buildKeyPad(bloc),
             const SizedBox(
-              height: 20,
+              height: 25,
             )
           ],
         ),
